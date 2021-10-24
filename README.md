@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
-At the memoment preoccupied with my military obligations.
+At the moment preoccupied with my military obligations.
 
 
 <!---
