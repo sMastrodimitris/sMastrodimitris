@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sMastrodimitris
 - 👀 I’m interested in ... data science & data analysis + visualisation
 - 🌱 I’m currently learning ... Python + Tableau 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+<!-- - 📫 How to reach me ... --->
 
 At the moment preoccupied with my military obligations.
 
