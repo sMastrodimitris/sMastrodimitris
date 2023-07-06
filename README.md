@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sMastrodimitris
-- 👀 I’m interested in ... data science & data analysis + visualisation
-- 🌱 I’m currently learning ... Python + Tableau 
+- 🧑‍🏫 I'm studing at AUEB ... Msc Data Science
+- 🎓 I have graduated from UniPi ... BSc IT
+- 👀 I’m interested in ... Data Science, Data Analysis & Visualisation
+<!--  - 🌱 I’m currently learning ... Python + Tableau --->
+     
 <!-- - 📫 How to reach me ... --->
-
-At the moment preoccupied with my military obligations.
-
 
 <!---
 sMastrodimitris/sMastrodimitris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
