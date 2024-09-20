@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sMastrodimitris
-- 🧑‍🏫 I'm studing at AUEB ... Msc Data Science
+- 🏦 I am working for Piraeus Bank as an Environmental Physical Risk Analyst 🔥 🌊 🌪️
+- 🧑‍🏫 I have graduated from AUEB ... Msc Data Science
 - 🎓 I have graduated from UniPi ... BSc IT
 - 👀 I’m interested in ... Data Science, Machine Learning and Quantitative Analysis
 <!--  - 🌱 I’m currently learning ... Python + Tableau --->
